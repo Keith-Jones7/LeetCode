@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="copt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/copt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
