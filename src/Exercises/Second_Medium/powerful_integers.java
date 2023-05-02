@@ -26,7 +26,6 @@ public class powerful_integers {
         }
         return new ArrayList<>(set);
     }
-
     public List<Integer> getPower(int num, int bound) {
         List<Integer> list = new ArrayList<>();
         list.add(1);
