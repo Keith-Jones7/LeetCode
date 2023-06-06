@@ -1,6 +1,5 @@
 package Exercises.Second_Medium;
 
-import com.sun.source.tree.BinaryTree;
 
 import java.util.*;
 
