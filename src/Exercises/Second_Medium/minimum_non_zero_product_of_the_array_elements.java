@@ -1,7 +1,7 @@
 package Exercises.Second_Medium;
 //1969 数组元素的最小非零乘积
 public class minimum_non_zero_product_of_the_array_elements {
-    int MOD = 1_0000;
+    int MOD = 10_000;
     public int minNonZeroProduct(int p) {
         long n = (1L << p);
         long ans = quickPow(n - 2, (n - 2) / 2) * (n - 1) % MOD;
